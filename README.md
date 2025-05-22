@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaibharath&label=Profile%20views&color=0e75b6&style=flat" alt="saaibharath" /> </p>
 
-- 🔭 I’m currently working as a Data Analytics Intern at AtliQ Technologies.**
+- 🔭 I’m currently working as a **Data Analytics Intern at AtliQ Technologies.**
 
 - 🌱 I’m currently learning **Advanced DAX, Forecast Modeling & Gen AI**
 
