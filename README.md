@@ -15,7 +15,7 @@
 - 📂 Explore my projects:  
   [**GitHub Portfolio**](https://github.com/saaibharath)
 
-- 📫 Reach me at **saaibharathje@gmail.com**
+- 📫 Reach me at **saaibharath@gmail.com**
 
 ## 🛠️ What I Bring to the Table  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Stats-FF6F61?style=flat-square&logo=chart-bar&logoColor=white)
