@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋 I'm Saai Bharath J E</h1>
 <h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saaibharath&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -62,4 +66,16 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/saaibharath/)
 - 💻 [GitHub](https://github.com/saaibharath)
 - 📊 [Portfolio](https://saaibharath.me/)
-- 📧 saaibharath@gmail.com
+- 📧 saaibharath@gmail.com  
+
+---
+
+### 📈 GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaibharath&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaibharath&" alt="streak stats" />
+</p>
