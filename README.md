@@ -70,13 +70,3 @@
 - 📧 Email: saaibharath@gmail.com  
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaibharath&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaibharath&" alt="streak stats" />
-</p>
