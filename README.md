@@ -1,30 +1,65 @@
 <h1 align="center">Hi 👋 I'm Saai Bharath J E</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Analyst | Power BI | SQL | Excel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saaibharath&label=Profile%20views&color=0e75b6&style=flat" alt="saaibharath" /> </p>
+---
 
-- 🔭 I’m currently working as a **Data Analytics Intern at AtliQ Technologies.**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced DAX, Forecast Modeling & Gen AI**
+- Experience as a Business Analyst working on requirement documentation, UAT, and reporting workflows  
+- Skilled in Power BI, SQL, and Excel with hands-on analytics projects  
+- Interested in building dashboards and working with business data  
+- Currently learning advanced DAX and data modeling  
 
-- 👯 I’m looking to collaborate on **Analytics & BI-focused roles**
+---
 
-- 🤝 My Skill Sets include:  
-  **SQL | Power BI | DAX | Python | Excel | Data Storytelling**
+### 📊 Projects
 
-- 📂 Explore my projects:  
-  [**GitHub Portfolio**](https://github.com/saaibharath)
+#### 🔹 Business Insights 360 (Power BI)
+- Built dashboards for sales, finance, and supply chain analysis  
+- Implemented KPI tracking and interactive filtering  
 
-- 📫 Reach me at **saaibharath@gmail.com**
+🔗 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhkYmQyNTEtZDc0YS00Y2NjLWJhOTEtYWFmMGY4MWZjNzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 🛠️ What I Bring to the Table  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Stats-FF6F61?style=flat-square&logo=chart-bar&logoColor=white)
+---
 
-## 🌐 **Links**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square&logo=novypro&logoColor=white)](https://codebasics.io/portfolio/Saai-Bharath-J-E) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saaibharath) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saaibharath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saaibharath/) [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saaibharath@gmail.com)
+#### 🔹 Finance & Supply Chain Analytics (SQL)
+- Worked on SQL queries for revenue, margin, and inventory analysis  
+- Used joins, CTEs, and window functions  
 
-_"I believe in the power of data to make smarter decisions and drive success!"_
+🔗 https://github.com/saaibharath/Real-World-Finance-Supply-Chain-Insights-Using-SQL
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaibharath&show_icons=true&locale=en&layout=compact" alt="saaibharath" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saaibharath&" alt="saaibharath" /></p>
+#### 🔹 Sales & Profitability Analysis (Excel)
+- Created reports using Excel, Power Query, and Power Pivot  
+- Analyzed performance trends and structured data  
+
+🔗 https://github.com/saaibharath/Excel-Sales-Analytics
+
+---
+
+#### 🔹 Hotel Revenue Analysis (Python)
+- Performed exploratory data analysis on booking data  
+- Identified trends using Python (Pandas)
+
+🔗 https://github.com/saaibharath/EDA-Hospitality-Domain
+
+---
+
+### 🛠️ Skills
+
+- Power BI  
+- SQL  
+- Excel  
+- Data Analysis  
+- Dashboarding  
+- Data Modeling  
+
+---
+
+### 🌐 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saaibharath/)
+- 💻 [GitHub](https://github.com/saaibharath)
+- 📊 [Portfolio](https://saaibharath.me/)
+- 📧 saaibharath@gmail.com
