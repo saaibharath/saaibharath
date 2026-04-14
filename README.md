@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - Experience as a Business Analyst working on requirement documentation, UAT, and reporting workflows  
-- Skilled in Power BI, SQL, and Excel with hands-on analytics projects  
+- Skilled in Power BI, SQL, Excel, and Python with hands-on analytics projects  
 - Interested in building dashboards and working with business data  
 - Currently learning advanced DAX and data modeling  
 
@@ -22,7 +22,7 @@
 - Built dashboards for sales, finance, and supply chain analysis  
 - Implemented KPI tracking and interactive filtering  
 
-🔗 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhkYmQyNTEtZDc0YS00Y2NjLWJhOTEtYWFmMGY4MWZjNzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 https://app.powerbi.com/view?r=eyJrIjoiMjhkYmQyNTEtZDc0YS00Y2NjLWJhOTEtYWFmMGY4MWZjNzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
@@ -55,6 +55,7 @@
 - Power BI  
 - SQL  
 - Excel  
+- Python (Pandas)  
 - Data Analysis  
 - Dashboarding  
 - Data Modeling  
@@ -63,9 +64,19 @@
 
 ### 🌐 Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saaibharath/)
-- 💻 [GitHub](https://github.com/saaibharath)
-- 📊 [Portfolio](https://saaibharath.me/)
-- 📧 saaibharath@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/saaibharath/  
+- 💻 GitHub: https://github.com/saaibharath  
+- 📊 Portfolio: https://saaibharath.me/  
+- 📧 Email: saaibharath@gmail.com  
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaibharath&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaibharath&" alt="streak stats" />
+</p>
