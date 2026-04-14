@@ -22,7 +22,7 @@
 - Built dashboards for sales, finance, and supply chain analysis  
 - Implemented KPI tracking and interactive filtering  
 
-🔗 https://app.powerbi.com/view?r=eyJrIjoiMjhkYmQyNTEtZDc0YS00Y2NjLWJhOTEtYWFmMGY4MWZjNzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhkYmQyNTEtZDc0YS00Y2NjLWJhOTEtYWFmMGY4MWZjNzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -30,7 +30,7 @@
 - Worked on SQL queries for revenue, margin, and inventory analysis  
 - Used joins, CTEs, and window functions  
 
-🔗 https://github.com/saaibharath/Real-World-Finance-Supply-Chain-Insights-Using-SQL
+🔗 [View Project](https://github.com/saaibharath/Real-World-Finance-Supply-Chain-Insights-Using-SQL)
 
 ---
 
@@ -38,7 +38,7 @@
 - Created reports using Excel, Power Query, and Power Pivot  
 - Analyzed performance trends and structured data  
 
-🔗 https://github.com/saaibharath/Excel-Sales-Analytics
+🔗 [View Project](https://github.com/saaibharath/Excel-Sales-Analytics)
 
 ---
 
@@ -46,7 +46,7 @@
 - Performed exploratory data analysis on booking data  
 - Identified trends using Python (Pandas)
 
-🔗 https://github.com/saaibharath/EDA-Hospitality-Domain
+🔗 [View Project](https://github.com/saaibharath/EDA-Hospitality-Domain)
 
 ---
 
@@ -62,11 +62,31 @@
 
 ---
 
-### 🌐 Links
+### 🌐 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/saaibharath/  
-- 💻 GitHub: https://github.com/saaibharath  
-- 📊 Portfolio: https://saaibharath.me/  
-- 📧 Email: saaibharath@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/saaibharath/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saaibharath">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://saaibharath.me/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:saaibharath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaibharath&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaibharath&" />
+</p>
